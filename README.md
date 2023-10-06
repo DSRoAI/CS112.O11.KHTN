@@ -8,7 +8,7 @@ Repo chứa các tài liệu liên quan đến môn CS112 (Phân tích thiết k
 
 ### 1. Bài Làm
 
-- **Parallel Merge Sort:** [Parallel_Merge_Sort.ipynb](./Bài%20làm/Parallel_Merge_Sort.ipynb)
+- **Parallel Merge Sort:** Thuật toán Merge Sort bằng Python áp dụng phương pháp song song [Parallel_Merge_Sort.ipynb](./Bài%20làm/Parallel_Merge_Sort.ipynb)
 
 ### 2. Buổi thảo luận của nhóm mình
 Chủ đề của buổi thảo luận là **Phân tích độ phức tạp thuật toán không đệ quy**.
