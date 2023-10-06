@@ -1,6 +1,9 @@
 # CS112.O11.KHTN - Nhóm 2
-Dưới đây là một ví dụ về tệp README cho repo của nhóm 2 chứa các tài liệu liên quan đến môn học CS112:
+Repo chứa các tài liệu liên quan đến môn CS112 (Phân tích thiết kế thuật toán) của Nhóm 2
 
+## Thành viên nhóm 2
+- Nguyễn Hữu Hoàng Long (Trưởng nhóm) - KHTN2022
+- Trần Như Cẩm Nguyên - KHTN2022
 ## Các Thư Mục
 
 ### 1. Bài Làm
@@ -8,7 +11,7 @@ Dưới đây là một ví dụ về tệp README cho repo của nhóm 2 chứa
 - **Parallel Merge Sort:** [Parallel_Merge_Sort.ipynb](./Bài%20làm/Parallel_Merge_Sort.ipynb)
 
 ### 2. Buổi thảo luận của nhóm mình
-
+Chủ đề của buổi thảo luận là **Phân tích độ phức tạp thuật toán không đệ quy**.
 - **Slide:** [Slide.pptx](./Buổi%20thảo%20luận%20của%20nhóm%20mình/Slide.pptx)
 - **Đề bài tập về nhà:** [Homework.pdf](./Buổi%20thảo%20luận%20của%20nhóm%20mình/Homework.pdf)
 - **Lời giải cho bài tập về nhà:** [Homework-Solutions.pdf](./Buổi%20thảo%20luận%20của%20nhóm%20mình/Homework-Solutions.pdf)
