@@ -4,23 +4,31 @@ Repo chứa các tài liệu liên quan đến môn CS112 (Phân tích thiết k
 ## Thành viên nhóm 2
 - Nguyễn Hữu Hoàng Long (Trưởng nhóm) - KHTN2022
 - Trần Như Cẩm Nguyên - KHTN2022
+
 ## Các Thư Mục
 
-### 1. Bài Làm
+### 1. Homework: Bài làm của nhóm mình cho homework các nhóm khác
 
 - **Thuật toán Merge Sort bằng Python áp dụng phương pháp song song:** [Parallel_Merge_Sort.ipynb](./Bài%20làm/Parallel_Merge_Sort.ipynb)
+- **Group 1: Luyện tập và thiết kế thuật toán**
+- **Group 3: Dynamic programming (1)**
+- **Group 4: Branch and Bound**
+- **Group 5: Phân tích độ phức tạp thuật toán đệ quy**
+- **Group 6: Kiểm tra tính đúng dắn & hiệu năng của chương trình bằng bộ test**
+- **Group 7: Luyện tập và thiết kế thuật toán (2)**
+- **Group 8: Greedy**
+- **Group 9: Geometric Algorithms**
+- **Group 10: Divide and Conquer**
+- **Group 11: Backtracking**
+- **Group 12: Graph Algorithms**
+- **Group 13: Luyện tập và thiết kế thuật toán (3) **
+- **Group 14: Dynamic programming (2)**
+- **Group 15: Brute force**
+- **Group 16: Luyện tập và thiết kế thuật toán (4)**
 
-### 2. Buổi thảo luận của nhóm mình
+### 2. NonRecursive_Algorithm_Complexity: Tài liệu về buổi thảo luận của nhóm mình
 Chủ đề của buổi thảo luận là **Phân tích độ phức tạp thuật toán không đệ quy**.
-- **Slide:** [Slide.pptx](./Buổi%20thảo%20luận%20của%20nhóm%20mình/Slide.pptx)
-- **Đề bài tập về nhà:** [Homework.pdf](./Buổi%20thảo%20luận%20của%20nhóm%20mình/Homework.pdf)
-- **Lời giải cho bài tập về nhà:** [Homework-Solutions.pdf](./Buổi%20thảo%20luận%20của%20nhóm%20mình/Homework-Solutions.pdf)
-- Nhận xét bài làm của các nhóm: [Link Google Sheets](https://docs.google.com/spreadsheets/d/1POiCt4wBYvs5wat1kuQdLDMU4dUtuJ2WrerWb2JYCZw/edit#gid=0)
-
-## Hướng Dẫn Sử Dụng
-
-1. **Bài làm:** Để xem bài làm của Nhóm 2, vào thư mục `Bài làm` và chọn tệp tương ứng.
-
-2. **Buổi thảo luận của nhóm mình:** Để xem các file trong buổi thảo luận của Nhóm 2, vào thư mục `Buổi thảo luận của nhóm mình` và chọn tệp tương ứng.
-
-Nhóm 2 rất mong nhận được sự đóng góp và phản hồi tích cực từ giáo viên hướng dẫn và các nhóm khác. Cảm ơn mọi người đã ghé qua!
+- **Slide:** [Slide.pptx](./NonRecursive_Algorithm_Complexity/Slide.pptx)
+- **Đề bài tập về nhà:** [Homework.pdf](./NonRecursive_Algorithm_Complexity/Homework.pdf)
+- **Lời giải cho bài tập về nhà:** [Homework-Solutions.pdf](./NonRecursive_Algorithm_Complexity/Homework-Solutions.pdf)
+- **Nhận xét bài làm của các nhóm:** [Score.pdf](./Score.pdf)
