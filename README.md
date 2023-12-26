@@ -31,4 +31,4 @@ Chủ đề của buổi thảo luận là **Phân tích độ phức tạp thu�
 - **Slide:** [Slide.pptx](./NonRecursive_Algorithm_Complexity/Slide.pptx)
 - **Đề bài tập về nhà:** [Homework.pdf](./NonRecursive_Algorithm_Complexity/Homework.pdf)
 - **Lời giải cho bài tập về nhà:** [Homework-Solutions.pdf](./NonRecursive_Algorithm_Complexity/Homework-Solutions.pdf)
-- **Nhận xét bài làm của các nhóm:** [Score.pdf](./NonRecursive_Algorithm_Complexity/Score.pdf)
+- **Nhận xét bài làm của các nhóm:** [Score.pdf](./NonRecursive_Algorithm_Complexity/Score.xlsx)
