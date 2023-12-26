@@ -9,8 +9,8 @@ Repo chứa các tài liệu liên quan đến môn CS112 (Phân tích thiết k
 
 ### 1. Homework: Bài làm của nhóm mình cho homework các nhóm khác
 
-- **Thuật toán Merge Sort bằng Python áp dụng phương pháp song song:** [Parallel_Merge_Sort.ipynb](./Bài%20làm/Parallel_Merge_Sort.ipynb)
-- **Group 1: Luyện tập và thiết kế thuật toán**
+- **Thuật toán Merge Sort bằng Python áp dụng phương pháp song song:** [Parallel_Merge_Sort.ipynb](./Homework/Parallel_Merge_Sort.ipynb)
+- **Group 1: [Luyện tập và thiết kế thuật toán](./Homework/Group1)**
 - **Group 3: Dynamic programming (1)**
 - **Group 4: Branch and Bound**
 - **Group 5: Phân tích độ phức tạp thuật toán đệ quy**
